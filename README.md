@@ -1,6 +1,6 @@
 ### Varun Sharma
 
-Systems architect building cognitive infrastructure for AI agents.
+Engineer building cognitive memory for AI agents. Founder, Shodh.
 
 **[shodh-memory](https://github.com/varun29ankuS/shodh-memory)** — Persistent cognitive memory for AI agents. Hebbian learning, spreading activation, hybrid decay, causal lineage. Single binary, fully offline. Published on crates.io, npm, PyPI, Docker.
 

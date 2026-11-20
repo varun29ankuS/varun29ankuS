@@ -6,12 +6,12 @@
 
 <sub>Roshera's agent builds a standard flange and draws it; the kernel re-measures every value.</sub>
 
-| | What it is | Now |
-|---|---|---|
-| **[Roshera](https://github.com/varun29ankuS/Roshera-CAD)** | My main company. A CAD kernel for AI agents that certifies every result. [roshera.tech](https://roshera.tech) | Main focus |
-| **[shodh-memory](https://github.com/varun29ankuS/shodh-memory)** | Memory for AI agents and robots, no LLM inside. **323★**, on crates.io, npm, PyPI and Docker. [shodh-memory.com](https://www.shodh-memory.com) | Maintained |
-| **[Shodh](https://github.com/varun29ankuS/shodhRAG)** | Private document search: answers cited to the exact page, each one checked | Releasing |
-| **[Saryu](https://github.com/varun29ankuS/Saryu-RNN)** | Open model research from India, now on models that drive CAD | Research |
+| | What it is |
+|---|---|
+| **[Roshera](https://github.com/varun29ankuS/Roshera-CAD)** | My main company. A CAD kernel for AI agents that certifies every result. [roshera.tech](https://roshera.tech) |
+| **[shodh-memory](https://github.com/varun29ankuS/shodh-memory)** | Memory for AI agents and robots, no LLM inside. **323★**, on crates.io, npm, PyPI and Docker. [shodh-memory.com](https://www.shodh-memory.com) |
+| **[Shodh](https://github.com/varun29ankuS/shodhRAG)** | Private document search: answers cited to the exact page, each one checked |
+| **[Saryu](https://github.com/varun29ankuS/Saryu-RNN)** | Open model research from India, now on models that drive CAD |
 
 **Monthly update:** what I built, what's next, and a question for you. [Read the latest and reply →](https://github.com/varun29ankuS/varun29ankuS/discussions/1)
 

@@ -1,22 +1,20 @@
 ### Varun Sharma
 
-**I build AI whose work you can check.** I spent 13 years engineering complex physical systems; now I build AI systems that measure their own results instead of asking you to trust them.
+**I build AI whose work you can check.** I'm a mechanical engineer with 13 years of hands-on CAD and physical-systems work. Now I build AI that measures its own results.
 
-<p>
-  <a href="https://github.com/varun29ankuS/varun29ankuS/discussions/categories/announcements"><img src="https://img.shields.io/badge/Monthly%20update-Read%20%26%20reply-0f6d82?style=for-the-badge&logo=github&logoColor=white" alt="Read the monthly update and reply" /></a>
-  <a href="https://github.com/sponsors/varun29ankuS"><img src="https://img.shields.io/badge/Sponsor-Back%20the%20work-db61a2?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor the work" /></a>
-  <a href="https://roshera.tech"><img src="https://img.shields.io/badge/roshera.tech-website-222?style=for-the-badge" alt="roshera.tech" /></a>
-</p>
+<a href="https://roshera.tech"><img src="assets/roshera-agent-flange.gif" width="640" alt="Roshera's agent builds a DN50 flange from EN 1092-1 and makes its drawing; the kernel re-measures every value" /></a>
 
-Once a month I post what I built over the last 30 days, what's next, and a question I'd like your answer to. It's free and public, and the replies decide what I build next. Watch this repo to get each one. **Latest: [November 2026](https://github.com/varun29ankuS/varun29ankuS/discussions/1).** I rotate between the projects below according to each month's priorities.
+<sub>Roshera's agent builds a standard flange and draws it; the kernel re-measures every value.</sub>
 
-| Project | What it is | This month |
+| | What it is | Now |
 |---|---|---|
-| **[Roshera](https://github.com/varun29ankuS/Roshera-CAD)** | A CAD kernel for AI agents. An agent designs parts and makes production drawings, and the kernel certifies every result: outside its verified envelope it refuses rather than approximates. | **Lead** |
-| **[Shodh](https://github.com/varun29ankuS/shodhRAG)** | Private document intelligence. Ask questions across your folders and get answers cited to the exact page, each sentence checked against its source on your own computer. Desktop and Android. | **Ship** |
-| **[shodh-memory](https://github.com/varun29ankuS/shodh-memory)** | Long-term memory for AI agents and robots, with no language model inside. One offline Rust binary. Published on crates.io, npm, PyPI and Docker; works with ROS2. | Maintenance, then picking up |
-| **[Saryu](https://github.com/varun29ankuS/Saryu-RNN)** | Open AI-architecture research from India: a recurrent language model, with two technical reports. Now exploring models that drive CAD, together with Roshera. | Exploring |
+| **[Roshera](https://github.com/varun29ankuS/Roshera-CAD)** | My main company. A CAD kernel for AI agents that certifies every result. [roshera.tech](https://roshera.tech) | Main focus |
+| **[shodh-memory](https://github.com/varun29ankuS/shodh-memory)** | Memory for AI agents and robots, no LLM inside. **323★**, on crates.io, npm, PyPI and Docker | Maintained |
+| **[Shodh](https://github.com/varun29ankuS/shodhRAG)** | Private document search: answers cited to the exact page, each one checked | Releasing |
+| **[Saryu](https://github.com/varun29ankuS/Saryu-RNN)** | Open model research from India, now on models that drive CAD | Research |
 
-Also: [shodh-redb](https://github.com/varun29ankuS/shodh-redb), an embedded multi-modal database in pure Rust; and [mif-spec](https://github.com/varun29ankuS/mif-spec), a portable format for AI agent memories.
+**Monthly update:** what I built, what's next, and a question for you. [Read the latest and reply →](https://github.com/varun29ankuS/varun29ankuS/discussions/1)
 
-**Get in touch.** I'd like to hear from engineering teams turning customer STEP files into drawings, AI labs and researchers working on agents with verifiable rewards, teams with private documents, people building agents or robots, and investors interested in verifiable AI. Reply under the monthly update, start a discussion on any project, or open an issue.
+**Get in touch** if you turn STEP files into drawings, train agents with verifiable rewards, or want to back verifiable AI. Reply under the update or email info@roshera.tech.
+
+<a href="https://github.com/sponsors/varun29ankuS"><img src="https://img.shields.io/badge/Sponsor-Back%20the%20work-db61a2?style=flat-square&logo=githubsponsors&logoColor=white" alt="Sponsor" /></a>

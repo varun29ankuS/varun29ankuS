@@ -9,7 +9,7 @@
 | | What it is | Now |
 |---|---|---|
 | **[Roshera](https://github.com/varun29ankuS/Roshera-CAD)** | My main company. A CAD kernel for AI agents that certifies every result. [roshera.tech](https://roshera.tech) | Main focus |
-| **[shodh-memory](https://github.com/varun29ankuS/shodh-memory)** | Memory for AI agents and robots, no LLM inside. **323★**, on crates.io, npm, PyPI and Docker | Maintained |
+| **[shodh-memory](https://github.com/varun29ankuS/shodh-memory)** | Memory for AI agents and robots, no LLM inside. **323★**, on crates.io, npm, PyPI and Docker. [shodh-memory.com](https://www.shodh-memory.com) | Maintained |
 | **[Shodh](https://github.com/varun29ankuS/shodhRAG)** | Private document search: answers cited to the exact page, each one checked | Releasing |
 | **[Saryu](https://github.com/varun29ankuS/Saryu-RNN)** | Open model research from India, now on models that drive CAD | Research |
 
